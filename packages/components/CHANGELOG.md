@@ -1,3 +1,9 @@
+## 0.4.5
+
+### 🩹 Fixes
+
+- **components:** add comment ([1fdcd62](https://github.com/thdk/lib/commit/1fdcd62))
+
 ## 0.4.4
 
 ### 🩹 Fixes

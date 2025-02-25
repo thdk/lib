@@ -33,7 +33,7 @@
     "projectsRelationship": "independent",
     "projects": ["packages/*", "packages/**/*"],
     "git": {
-      "commitMessage": "chore(release): {version}"
+      "commitMessage": "chore(release): version packages"
     },
     "changelog": {
       "projectChangelogs": {
